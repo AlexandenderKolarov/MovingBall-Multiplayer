@@ -1,0 +1,11 @@
+{
+  "name": "moving_ball_server",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Alexander Kolarov",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.13",
+    "@types/socket.io": "^1.4.29"
+  }
+}
